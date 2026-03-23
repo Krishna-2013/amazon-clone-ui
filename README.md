@@ -38,6 +38,11 @@ Key learning areas:
 * Spacing and alignment
 * UI design patterns
 
+## 💡 Key Challenges
+
+- Creating complex layout similar to Amazon
+- Managing spacing and alignment
+
 ## 📌 Project Status
 
 ⚠️ Work in progress
