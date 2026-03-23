@@ -5,7 +5,7 @@ This project focuses on replicating a real-world e-commerce UI layout.
 
 ## 🚀 Live Demo
 
-https://your-site.netlify.app
+https://illustrious-khapse-daf422.netlify.app/
 
 ## 📸 Preview
 
