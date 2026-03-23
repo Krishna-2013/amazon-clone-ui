@@ -10,6 +10,9 @@ https://your-site.netlify.app
 ## 📸 Preview
 
 <img width="1899" height="871" alt="Screenshot 2026-03-23 191650" src="https://github.com/user-attachments/assets/3500b63a-9c0d-40ee-ba31-100fb3cbb4ef" />
+<img width="1896" height="842" alt="Screenshot 2026-03-23 191708" src="https://github.com/user-attachments/assets/44801ad4-0568-4afc-8864-c3168e5b81a3" />
+<img width="1899" height="863" alt="Screenshot 2026-03-23 191717" src="https://github.com/user-attachments/assets/d1fb3956-12f4-4831-9e08-5c687a65e4ae" />
+
 
 
 ## ✨ Features
