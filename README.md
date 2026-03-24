@@ -5,7 +5,7 @@ This project focuses on replicating a real-world e-commerce UI layout.
 
 ## 🚀 Live Demo
 
-https://illustrious-khapse-daf422.netlify.app/
+https://krishna-2013.github.io/amazon-clone-ui/
 
 ## 📸 Preview
 
