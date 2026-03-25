@@ -63,3 +63,7 @@ It is a clone of Amazon's UI and not intended for commercial use.
 
 Krishna
 GitHub: https://github.com/Krishna-2013
+
+## ⭐ Show Your Support
+
+If you like this project, give it a ⭐ on GitHub!
